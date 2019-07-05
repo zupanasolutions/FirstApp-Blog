@@ -1,3 +1,12 @@
+load project into your web directory
+navigate to 127.0.0.1:8000/index.php
+login with credentials
+username: pascal4csc900@gmail.com
+password: admin@zupan
+
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
